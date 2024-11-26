@@ -1,5 +1,5 @@
 # -Garabage-Managment-System-Clean-Tech-
-# Garbage-Managment-System-Green-Clean-Technology-
+
 The world is in a stage of upgradation, there is one stinking problem we have to deal with. Garbage! In our daily life, we see pictures of garbage bins being overfull and all the garbage spills out. This leads to the number of diseases and insects and mosquitoes breed on it. A big challenge in urban cities is solid waste management not only in India but in most countries in the world. Hence, such a system has to be built that can eradicate this problem or at least reduce it to the minimum level.
 Project Modules
 The garbage management System Project is a Web-based application.
